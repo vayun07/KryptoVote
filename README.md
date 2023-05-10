@@ -30,7 +30,7 @@ First of all, some frameworks and dependencies need to be installed as per list:
 
 •	Npm install -g ethereumjs-tx
 
-•	Setup mysql database
+•	Setup mysql database (insert_voter and signup database)
 
 “Blockchain Server” folder constitutes of the files for the logic of the blockchain, including smart contracts and webpack dependencies which can be migrated to the test network (localhost in this case).
 
